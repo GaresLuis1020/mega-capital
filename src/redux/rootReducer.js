@@ -1,5 +1,5 @@
-import { combineReducers } from "redux";
-// slices
+ import { combineReducers } from "redux";
+// slices 
 import networkReducer from "./slices/network";
 import userReducer from "./slices/user";
 import tokenListingReducer from "./slices/tokenListing";
