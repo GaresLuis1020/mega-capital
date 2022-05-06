@@ -1,4 +1,4 @@
-import { Suspense, lazy } from 'react'; 
+import { Suspense, lazy } from 'react';  
 import { Navigate, useRoutes, useLocation } from 'react-router-dom';
 // layouts
 // import MainLayout from 'layouts/main';
