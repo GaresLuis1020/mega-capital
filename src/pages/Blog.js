@@ -78,7 +78,7 @@ export default function Stakepad() {
         setTab(0);
     }
   }, [hash]);
-  const blogs = [
+  const blogs = [ 
     {
       src:"my_public/images/blog-1.png",
       title:"April 02, 2021",
