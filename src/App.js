@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-// routes
+// routes 
 import Router from 'router';
 // theme
 import ThemeConfig from './theme';
