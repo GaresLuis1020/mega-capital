@@ -1,4 +1,4 @@
-// scroll bar
+// scroll bar 
 // import 'simplebar/src/simplebar.css';
 // import 'https://unpkg.com/scrollreveal';
 // import 'https://kit.fontawesome.com/17655efe07.js';
