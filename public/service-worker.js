@@ -1,6 +1,6 @@
 self.addEventListener('push', (event) => {
   const data = event.data.json();
-  const { title, image, body, address } = data;
+  const { title, image, body, address } = data; 
 
   console.log(address);
   const options = {
