@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import { createContext, useState, useEffect } from 'react';
 // material
 import { useMediaQuery } from '@mui/material';
-import { useTheme } from '@mui/material/styles';
+import { useTheme } from '@mui/material/styles'; 
 
   
 // ----------- -----------------------------------------------------------
