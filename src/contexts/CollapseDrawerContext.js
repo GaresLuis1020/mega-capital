@@ -10,7 +10,7 @@ import { useTheme } from '@mui/material/styles';
 const initialState = {
   collapseClick: false,
   collapseHover: false,
-  onToggleCollapse: () => {},
+  onToggleCollapse: () => {}, 
   onHoverEnter: () => {},
   onHoverLeave: () => {}
 };
