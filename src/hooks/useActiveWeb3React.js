@@ -2,7 +2,7 @@ import { useEffect, useState, useRef } from "react";
 import { useWeb3React } from "@web3-react/core";
 import { simpleRpcProvider } from "utils/providers";
 import { useSelector, useDispatch } from "react-redux";
-import { switchNetwork } from "redux/slices/network"; 
+import { switchNetwork } from "redux/slices/network";  
 
 // eslint-disable-next-line import/no-unresolved
 
