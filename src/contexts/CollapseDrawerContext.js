@@ -32,7 +32,7 @@ function CollapseDrawerProvider({ children }) {
   useEffect(() => {
     if (isMobile) {
       setCollapse({
-        click: false,
+        click: false, 
         hover: false
       });
     }
