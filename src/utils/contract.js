@@ -10,7 +10,7 @@ export function isAddress(value) {
   } catch {
     return false;
   }
-}
+} 
 
 // add 10%
 export function calculateGasMargin(value) {
