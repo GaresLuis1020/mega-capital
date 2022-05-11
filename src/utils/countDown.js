@@ -3,7 +3,7 @@ export default function countDown(distanceToNow){
       return ({
         days: "00",
         hours: "00",
-        minutes: "00", 
+        minutes: "00",  
         seconds: "00",
       });
     } else {
