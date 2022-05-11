@@ -1,5 +1,5 @@
 // Set of helper functions to facilitate wallet setup
-
+ 
 import {
   SCAN_URL, CURRENCY_NAME, CURRENCY_SYMBOL, NETWORK_NAME
 } from "../config/constants";
