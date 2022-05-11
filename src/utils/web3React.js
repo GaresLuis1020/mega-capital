@@ -17,7 +17,7 @@ const walletconnect = new WalletConnectConnector({
     qrcode: true,
     pollingInterval: POLLING_INTERVAL,
   });
-
+ 
 const bscConnector = new BscConnector({ supportedChainIds: [Number(process.env.REACT_APP_ETHEREUM_CHAINID),Number(process.env.REACT_APP_BSC_CHAINID)] });
 
 export const connectorsByName ={
