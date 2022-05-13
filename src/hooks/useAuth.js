@@ -20,7 +20,7 @@ import { useSnackbar } from "notistack";
 // import { profileClear } from "state/profile";
 // import { useAppDispatch } from "state";
 
-const useAuth = (network) => {
+const useAuth = (network) => { 
   // const dispatch = useAppDispatch();
   const { activate, deactivate } = useWeb3React();
   const { enqueueSnackbar } = useSnackbar();
