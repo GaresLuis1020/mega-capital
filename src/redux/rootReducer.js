@@ -7,7 +7,7 @@ import poolsReducer from "./slices/pools";
 import liquidityLocksReducer from "./slices/liquidityLocks";
 import tokenLocksReducer from "./slices/tokenLocks";
 import alarmsReducer from "./slices/alarms";
-import storage from "redux-persist/lib/storage";
+import storage from "redux-persist/lib/storage"; 
 
 // ----------------------------------------------------------------------
 
